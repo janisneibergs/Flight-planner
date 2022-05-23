@@ -1,4 +1,4 @@
-package com.example.flightplanner;
+package io.codelex.flightplanner;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
